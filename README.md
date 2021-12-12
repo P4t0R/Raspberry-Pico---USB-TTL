@@ -1,9 +1,13 @@
 # RaspberryPico-usb_TTL
 
-Programa para enviar mensajes a *Raspberry* pico por medio de un *usb-TTL*.
+Programa para enviar mensajes por medio de PuTTY a *Raspberry pico* utilizando un *usb-TTL*.
 
 
 *   [RaspberryPico-usb_TTL](https://github.com/P4t0R/RaspberryPico-usb_TTL/blob/main/main.py)
+
+
+![alt text](https://github.com/P4t0R/RaspberryPico-usb_TTL/blob/main/img/img1.PNG?raw=true)
+
 
 
 
