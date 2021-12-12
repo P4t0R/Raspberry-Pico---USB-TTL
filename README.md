@@ -11,16 +11,19 @@ en resumen sirve para enviar mensajes por medio de PuTTY al Raspberry.
 Al enviar un mensaje la Raspberry lo lee y retorna el mismo mensaje.
 ![alt text](https://github.com/P4t0R/RaspberryPico-usb_TTL/blob/main/img/img1.PNG?raw=true)
 
+
 ### Diagrama de conexionado
 ![alt text](https://github.com/P4t0R/RaspberryPico-usb_TTL/blob/main/img/img0.PNG?raw=true)
+
 
 ### Configuración de PuTTY
 ![alt text](https://github.com/P4t0R/RaspberryPico-usb_TTL/blob/main/img/img2.PNG?raw=true)
 
+
 ### Abrir Thonny y cargar el código, luego estamos listos para enviar mensajes
 ![alt text](https://github.com/P4t0R/RaspberryPico-usb_TTL/blob/main/img/img3.PNG?raw=true)
 
-
+----
 
 Links de interes: 
 
