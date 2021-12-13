@@ -30,7 +30,7 @@ Al enviar un mensaje la Raspberry lo lee y retorna el mismo mensaje.
 ![alt text](https://github.com/P4t0R/RaspberryPico-usb_TTL/blob/main/img/RaspberryPico_PinOut.PNG?raw=true)
 
 #
-### USB-TTL PinOut
+### USB-TTL CH340G PinOut (Imagen Referencial)
 ![alt text](https://github.com/P4t0R/RaspberryPico-usb_TTL/blob/main/img/UsbTTL_PinOut.PNG?raw=true)
 
 ----
