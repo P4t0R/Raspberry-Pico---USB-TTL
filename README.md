@@ -25,6 +25,16 @@ Al enviar un mensaje la Raspberry lo lee y retorna el mismo mensaje.
 
 ----
 
+#
+### Raspberry Pico PinOut
+![alt text](https://github.com/P4t0R/RaspberryPico-usb_TTL/blob/main/img/RaspberryPico_PinOut.PNG?raw=true)
+
+#
+### USB-TTL PinOut
+![alt text](https://github.com/P4t0R/RaspberryPico-usb_TTL/blob/main/img/PL2303-UART-Module-Pinout.jpg?raw=true)
+
+----
+
 Links de interes: 
 
 * [P4t0R-GitHub](https://github.com/P4t0R)
